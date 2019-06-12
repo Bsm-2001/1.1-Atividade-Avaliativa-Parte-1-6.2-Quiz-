@@ -1,0 +1,6 @@
+D:\ADM\Documents\SharpDevelop Projects\Atividade\Atividade\obj\Debug\Atividade.csprojResolveAssemblyReference.cache
+D:\ADM\Documents\SharpDevelop Projects\Atividade\Atividade\bin\Debug\Atividade.exe.config
+D:\ADM\Documents\SharpDevelop Projects\Atividade\Atividade\bin\Debug\Atividade.exe
+D:\ADM\Documents\SharpDevelop Projects\Atividade\Atividade\bin\Debug\Atividade.pdb
+D:\ADM\Documents\SharpDevelop Projects\Atividade\Atividade\obj\Debug\Atividade.exe
+D:\ADM\Documents\SharpDevelop Projects\Atividade\Atividade\obj\Debug\Atividade.pdb
